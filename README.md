@@ -3,9 +3,10 @@ This is the project hunt theme.
 
 #Installation
 To setup projecthunt, first clone the telescope repository. 
-```git clone https://github.com/TelescopeJS/Telescope.git```
+```
+git clone https://github.com/TelescopeJS/Telescope.git```
 
-Then change to the packages directory and download telescope-theme-projecthunt.
+Then change to the packages directory and download telescope-theme-projecthunt using the following commands:
 
 ```
 cd telescope\packages
@@ -16,7 +17,7 @@ cp packages\telescope-theme-projecthunt\settings.json .
 
 
 #Launching With Settings
-Type the following
+Type the following:
 ```
 meteor run --settings settings.json
 ```
