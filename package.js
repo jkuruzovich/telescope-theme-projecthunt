@@ -18,7 +18,8 @@ Package.onUse(function (api) {
     'lib/postfield.js',
     'lib/client/templates/about_page.html',
     'lib/client/templates/about_link.html',
-    'img/supermanred.jpg'
+    'img/supermanred.jpg',
+    'img/projecthunt.png'
   ], ['client']);
 
 

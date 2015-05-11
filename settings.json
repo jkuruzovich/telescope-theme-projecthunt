@@ -8,7 +8,7 @@
     "navLayout": "top-nav",
     "postsLayout": "posts-list",
     "postViews": "false",
-    "logoUrl": "http://projecthunt.org/img/logo2.png",
+    "logoUrl": "packages/telescope-theme-projecthunt/img/projecthunt.png",
     "accentContrastColor":"#FFFFFF",
     "secondaryColor":"#FFFFFF",
     "secondaryContrastColor":"#000000",
