@@ -1,0 +1,28 @@
+{
+  "public": {
+    "title": "Project Hunt",
+    "showBanner": "true",
+    "enableNewsletter": "true",
+    "tagline": "Project Hunt helps connect hackers, makers, designers, hustlers, and students with projects that matter. Click the about tab to find out more. ",
+    "description": "Find hackathon projects. Get experience. Get involved in startups. Help nonprofits.",
+    "navLayout": "top-nav",
+    "postsLayout": "posts-list",
+    "postViews": "false",
+    "logoUrl": "http://projecthunt.org/img/logo2.png",
+    "accentContrastColor":"#FFFFFF",
+    "secondaryColor":"#FFFFFF",
+    "secondaryContrastColor":"#000000",
+    "logoHeight":"20",
+    "logoWidth":"140"
+  },
+  "private": {
+    "mailUrl": "",
+    "defaultEmail": "",
+    "mailChimpAPIKey": "",
+    "mailChimpListId": ""
+  },
+  "kadira": {
+    "appId": "",
+    "appSecret": ""
+  }
+}
