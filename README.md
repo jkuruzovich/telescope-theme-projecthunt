@@ -14,6 +14,7 @@ telescope/packages
 git clone https://github.com/jkuruzovich/telescope-theme-projecthunt.git
 cd ..
 cp packages/telescope-theme-projecthunt/settings.json .
+meteor add telescope-theme-projecthunt
 ```
 
 
